@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-13T12:33:13+02:00
+
+====== Konjunktion "dass" ======
+Created Saturday 13 July 2024
+
+Er hofft, dass der Lehrer es nicht sieht.
+__He hopes (that) the teacher doesn't see it.__
+
+
+Sie weiB, dass er sie liebt.
+__She knows (that) he lover her.__
+
